@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gabriele-0201, I'm a student of IT Engineer in Padova, I like speaking, thinking and programming
 - 👀 I’m interested in every new technology, from blockchain to AI
-- 🌱 I’m currently learning Django and all the frontend stuff
+- 🌱 I’m currently learning Rust and Substrate
 - 💞️ I’m looking to collaborate on ... bho, I don't have a particular idea but I only know that I love to make my life harder 
 - 📫 gabriele.miotti2@gmail.com
